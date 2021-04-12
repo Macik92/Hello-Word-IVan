@@ -1,0 +1,13 @@
+# My name Ivan 
+# У меня есть машина Шеврале Круз и она классная =)
+name ="""
+IIIIIII  V   V
+   I     V   V
+   I     V   V
+   I     V   V
+   I     V   V
+   I      V V
+IIIIIII    V
+"""
+
+print(name)
